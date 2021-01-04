@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(112, 91, 91) !important;
+} 
+ 
+h1, button, h2 {
+    display: inline-block;
+    width: 120px !important;
+    background-color: whitesmoke !important; 
+    margin-top: 24px !important;
+}
+label {
+    color: white;
+    font-weight: bold !important;
+    font-size: xx-large !important;
+}
+
+.block{
+    background-color: violet !important;
+    height: 400px !important;
+    width: 1000px !important;
+}
